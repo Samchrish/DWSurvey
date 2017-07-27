@@ -1450,6 +1450,9 @@ function substring(json) {
 <script type="text/javascript">
 $(document).ready(function(){
 	//.quTrOptions  td
+	$(".fbView").click(function(){
+
+	});
 });
 </script>
 </body>
